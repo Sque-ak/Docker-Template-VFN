@@ -19,3 +19,4 @@ yarn-error.log
 .venv
 *.pyc
 __pycache__
+obsidian
