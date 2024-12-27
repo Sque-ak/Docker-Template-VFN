@@ -19,8 +19,8 @@ This project is a template for deploying a web application using FastAPI for the
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/Sque-ak/Docker-Template-VFN.git
+cd Docker-Template-VFN
 ```
 
 2. **Configure environment variables:**
